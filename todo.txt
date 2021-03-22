@@ -1,0 +1,3 @@
+- Notifiche => punti sopra fantasmi e ciliegie
+- Sistemare mutex
+- Impostazioni => Vite max e difficoltà
